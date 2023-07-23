@@ -1,0 +1,7 @@
+build/
+node_modules/
+src/assets/fonts/
+src/assets/icons/
+*.*
+!*.css
+!*.scss
